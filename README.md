@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **armansalmani596@gmail.com**
 
-- ⚡ Fun fact : **I think i am funny :) & Introvert**
+- ⚡ Fun fact : **I think i am funny :) & introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
