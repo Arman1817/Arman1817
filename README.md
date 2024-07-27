@@ -29,7 +29,7 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> 
   </a>
-  <a href="[https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=143485223644&campaign=18442427757&creative=687972927803&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73345677068&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=Cj0KCQjwtZK1BhDuARIsAAy2VztIR8XT65SId_psc5hAWpwKYDnuY-XM9kBDUr7BOyW0gpVx3eSFfFoaApIFEALw_wcB&gclsrc=aw.ds)" target="_blank" rel="noreferrer"> 
+  <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=143485223644&campaign=18442427757&creative=687972927803&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73345677068&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=Cj0KCQjwtZK1BhDuARIsAAy2VztIR8XT65SId_psc5hAWpwKYDnuY-XM9kBDUr7BOyW0gpVx3eSFfFoaApIFEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> 
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
